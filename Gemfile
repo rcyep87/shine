@@ -8,6 +8,7 @@ gem 'pg'
 gem 'devise'
 gem 'bootstrap-sass'
 gem 'angularjs-rails'
+gem 'bower-rails', "~> 0.10.0"
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 5.0'
 # Use Uglifier as compressor for JavaScript assets
