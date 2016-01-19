@@ -6,6 +6,7 @@ gem 'rails', '4.2.4'
 # Use postgresql as the database for Active Record
 gem 'pg'
 gem 'devise'
+gem 'faker'
 gem 'bootstrap-sass'
 gem 'angularjs-rails'
 gem 'bower-rails', "~> 0.10.0"
